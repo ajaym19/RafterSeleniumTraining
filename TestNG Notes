@@ -1,0 +1,17 @@
+TestNG Notes
+
+Test Next Generation
+-it is testing tool
+
+
+Features:
+1. Annotations
+2. Priority/Sequencing
+3. Depends On
+4. Invocation Count
+5. XML Parameters
+6. Data Provider 
+7. Groups
+8. Reports
+9. TestNG XML File
+10. Assertions
